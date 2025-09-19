@@ -1,0 +1,13 @@
+
+body { background:#0f1116; color:#e6e9ee; font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial; }
+.container { max-width:1200px; margin:0 auto; padding:22px; }
+.panel { background:#141822; border:1px solid #283043; border-radius:12px; padding:16px; margin:14px 0; }
+.row { display:flex; gap:14px; flex-wrap:wrap; }
+.col-6 { flex: 1 1 48%; min-width: 320px; }
+.col-4 { flex: 1 1 28%; min-width: 240px; }
+.col-8 { flex: 1 1 68%; min-width: 320px; }
+.cards { display:flex; gap:10px; flex-wrap:wrap; }
+.card { background:#171c28; border:1px solid #2a3348; border-radius:10px; padding:10px 12px; min-width:120px; }
+.metric-label { font-size:12px; color:#a3afc3; text-transform:uppercase; letter-spacing:.06em; }
+.metric-value { font-weight:700; font-size:20px; }
+footer { color:#95a1b6; text-align:center; margin-top:20px; }

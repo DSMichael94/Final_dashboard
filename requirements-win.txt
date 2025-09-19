@@ -1,0 +1,8 @@
+# Recomendado Python 3.11 en Windows
+dash==2.17.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+plotly==5.23.0
+statsmodels==0.14.2
+jupyter-dash==0.4.2
